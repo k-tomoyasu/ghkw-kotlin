@@ -1,0 +1,6 @@
+framework module GhkwClient {
+    umbrella header "GhkwClient.h"
+
+    export *
+    module * { export * }
+}

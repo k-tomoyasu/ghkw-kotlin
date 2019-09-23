@@ -1,0 +1,3 @@
+include ':ghkw-client'
+rootProject.name='ghkw_kotlin'
+enableFeaturePreview('GRADLE_METADATA')
